@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/amiru11/vanilla-redux.git",
   "author": "Saemii <wrfg12@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
 }
